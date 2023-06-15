@@ -1,5 +1,5 @@
 #!/bin/tcsh -f
-echo " This is a TCL file created by Shreyas "
+echo " This is a TCL file created by prajeet "
 
 set my_work_dir = `pwd`
 
