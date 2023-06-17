@@ -1,6 +1,6 @@
 # TCL_Prajeet
 ## Day 1
-```
+``` tcl
 #!/bin/tcsh -f
 echo " This is a TCL file created by prajeet "
 
