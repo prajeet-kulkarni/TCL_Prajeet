@@ -1,5 +1,6 @@
 # TCL_Prajeet
 ## Day 1
+### Code
 ``` tcl
 #!/bin/tcsh -f
 echo " This is a TCL file created by prajeet "
@@ -28,5 +29,5 @@ else
 	tclsh vsdsynth.tcl $argv[1]
 endif
 ```
-
+### Output
 <img width="664" alt="image" src="https://github.com/prajeet-kulkarni/TCL_Prajeet/assets/121448549/ebf8d1a8-df0d-4b77-986c-da7736868304">
