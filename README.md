@@ -184,14 +184,14 @@ puts "input_ports_start =$input_ports_start"
 #-----check row number for "outputs" section in constraints.csv---##
 set output_ports_start [lindex [lindex [constraints search all OUTPUTS] 0 ] 1]
 puts "output_ports_start = $output_ports_start "
-                                                                                                                                                                                          118,16        Bot
+                                                                                                                                                                
 
 puts "input_ports_start =$input_ports_start"
 #-----check row number for "outputs" section in constraints.csv---##
 set output_ports_start [lindex [lindex [constraints search all OUTPUTS] 0 ] 1]
 puts "output_ports_start = $output_ports_start "
  ```
-## Output
+### Output
 <img width="794" alt="image" src="https://github.com/prajeet-kulkarni/TCL_Prajeet/assets/121448549/e671d160-931f-4410-86a7-390248af995a">
 
 
