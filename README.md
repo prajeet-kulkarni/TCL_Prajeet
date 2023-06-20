@@ -472,9 +472,9 @@ puts "\n$OutputDirectory/$DesignName.final.synth.v"
 
 ### Output
 ![image](https://github.com/prajeet-kulkarni/TCL_Prajeet/assets/121448549/49dd1dc7-252f-4334-a77a-d2a72bd9704d)
-synthesis
 
-![image](https://github.com/prajeet-kulkarni/TCL_Prajeet/assets/121448549/1125e5e7-3a03-4b12-a798-bd2f11baf1d2)
+Synthesis
+<img width="926" alt="image" src="https://github.com/prajeet-kulkarni/TCL_Prajeet/assets/121448549/6baca541-36af-4542-904d-e320b1a34d7f">
 
 Netlist
 ![image](https://github.com/prajeet-kulkarni/TCL_Prajeet/assets/121448549/4614aa91-4fb9-4bbf-94bf-fb5271eee693)
